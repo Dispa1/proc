@@ -1,0 +1,17 @@
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Func.exe
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Func.deps.json
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Func.runtimeconfig.json
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Func.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Func.dll
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\netcoreapp3.1\Func.pdb
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\WinFormsApp1.Form12.resources
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.dll
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.pdb
+C:\Users\Пользователь\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\netcoreapp3.1\Func.genruntimeconfig.cache
