@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\obj\Debug\Нахождение мостов Графов.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\obj\Debug\Нахождение мостов Графов.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\obj\Debug\Нахождение мостов Графов.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Пользователь\source\repos\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
